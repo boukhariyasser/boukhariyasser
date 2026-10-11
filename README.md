@@ -1,119 +1,143 @@
-<!-- SPIDER CODE · PERSONAL BRAND PROFILE -->
-
 <div align="center">
 
-<img src="assets/spider-code-banner.svg" width="100%" alt="SPIDER CODE — Engineering Intelligence" />
+<h1>🕷️ SPIDER CODE</h1>
+<h3>Engineering Intelligence · Designing Experiences</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=760&lines=SECOND-YEAR+AI+STUDENT+%40+ENSIA;DEVELOPER+%2F%2F+DESIGNER+%2F%2F+PROBLEM+SOLVER;TURNING+IDEAS+INTO+DIGITAL+EXPERIENCES;ENGINEERING+INTELLIGENCE.+DESIGNING+THE+FUTURE." alt="Animated Spider Code introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=760&lines=SECOND-YEAR+AI+STUDENT+%40+ENSIA;DEVELOPER+%2F%2F+DESIGNER+%2F%2F+PROBLEM+SOLVER;TURNING+IDEAS+INTO+DIGITAL+EXPERIENCES;THINK.+DESIGN.+BUILD.+INNOVATE." alt="Animated SPIDER CODE introduction" />
 
-[![GitHub](https://img.shields.io/badge/GITHUB-boukhariyasser-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/boukhariyasser)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boukhari-abdallah-yasser-b3240b379/)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-0753B8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallah-yasser.boukhari@ensia.edu.dz)
-
-<img src="https://komarev.com/ghpvc/?username=boukhariyasser&style=flat-square&color=0753B8&label=PROFILE+VIEWS" alt="Profile views" />
-
-**`THINK` → `DESIGN` → `BUILD` → `INNOVATE`**
-
-</div>
-
----
-
-## `01 / IDENTITY`
-
-> **Curiosity is the engine. Code is the medium. Design is the experience.**
-
-I'm **Boukhari Abdallah Yasser**, a **second-year Artificial Intelligence student at ENSIA, Algeria**. I’m interested in the intersection of AI, software development, and visual design—and in building digital experiences that are both useful and thoughtfully designed.
-
-<table>
-  <tr><td><b>BRAND</b></td><td>SPIDER CODE</td></tr>
-  <tr><td><b>EDUCATION</b></td><td>ENSIA · Artificial Intelligence · Second Year</td></tr>
-  <tr><td><b>INTERESTS</b></td><td>AI · Software Engineering · UI/UX · HealthTech</td></tr>
-  <tr><td><b>APPROACH</b></td><td>Build · Learn · Iterate</td></tr>
-</table>
-
-## `02 / CURRENT MISSION`
-
-- **Computer Science:** strengthen my foundations in algorithms, C++, and object-oriented programming.
-- **Web Development:** grow from HTML, CSS, and JavaScript fundamentals into modern frameworks.
-- **Design:** create clear interfaces and distinctive visual identities.
-- **Artificial Intelligence:** explore AI concepts and practical applications, including healthcare.
-
----
-
-## `03 / SKILL MATRIX`
-
-<table>
-  <thead>
-    <tr>
-      <th>CORE TOOLKIT</th>
-      <th>CURRENTLY LEARNING</th>
-      <th>EXPLORING NEXT</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        <img src="https://skillicons.dev/icons?i=html,css,figma,ps,ai,git,github&theme=dark" alt="HTML, CSS, Figma, Photoshop, Illustrator, Git and GitHub" />
-        <br/><sub>Web foundations · Design · Version control</sub>
-      </td>
-      <td valign="top">
-        <img src="https://skillicons.dev/icons?i=js,cpp,python&theme=dark" alt="JavaScript, C++ and Python" />
-        <br/><sub>JavaScript basics · C++ / OOP · Python</sub>
-      </td>
-      <td valign="top">
-        <img src="https://skillicons.dev/icons?i=react,ts,nodejs&theme=dark" alt="React, TypeScript and Node.js" />
-        <br/><sub>Modern frameworks · AI projects · HealthTech</sub>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<sub>Skill matrix reflects current interests and learning areas—not a claim of professional mastery in every listed technology.</sub>
-
-## `04 / GITHUB TELEMETRY`
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/boukhariyasser">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=boukhariyasser&show_icons=true&hide_border=true&bg_color=050B16&title_color=38BDF8&icon_color=00CFFF&text_color=DCEBFF&rank_icon=github" alt="GitHub statistics" />
+  <img src="https://img.shields.io/badge/GITHUB-boukhariyasser-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub profile" />
 </a>
-<a href="https://github.com/boukhariyasser">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boukhariyasser&layout=compact&hide_border=true&bg_color=050B16&title_color=38BDF8&text_color=DCEBFF" alt="Most used languages" />
+<a href="https://www.linkedin.com/in/boukhari-abdallah-yasser-b3240b379/">
+  <img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
+<a href="mailto:abdallah-yasser.boukhari@ensia.edu.dz">
+  <img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-0753B8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=boukhariyasser&bg_color=050B16&color=93C5FD&line=00CFFF&point=FFFFFF&area=true&hide_border=true&custom_title=SPIDER%20CODE%20%2F%20CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph" />
+<img src="https://komarev.com/ghpvc/?username=boukhariyasser&style=flat-square&color=0753B8&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br/><br/>
+
+`THINK` &nbsp; → &nbsp; `DESIGN` &nbsp; → &nbsp; `BUILD` &nbsp; → &nbsp; `INNOVATE`
 
 </div>
 
-## `05 / PROJECT ARCHIVE`
+---
 
-**Ideas are interesting. Building them is better.**
+## `01` / THE PERSON BEHIND THE CODE
 
-I use projects to practise, experiment with technology, and turn concepts into working digital experiences.
+> **Curiosity is the engine. Code is the medium. Design is the experience.**
+
+Hey, I'm **Boukhari Abdallah Yasser** — a **second-year Artificial Intelligence student at ENSIA, Algeria**. I'm interested in the intersection of AI, software development, and visual design, and in building digital experiences that are useful, intuitive, and thoughtfully designed.
+
+<table>
+  <tr><td><b>IDENTITY</b></td><td>AI Student · Developer · UI/UX & Graphic Designer</td></tr>
+  <tr><td><b>EDUCATION</b></td><td>ENSIA · Artificial Intelligence · Second Year</td></tr>
+  <tr><td><b>INTERESTS</b></td><td>AI · Software Engineering · Human-Centered Design · HealthTech</td></tr>
+  <tr><td><b>APPROACH</b></td><td>Build · Learn · Iterate</td></tr>
+</table>
+
+## `02` / CURRENT MISSION
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌘ Computer Science</h3>
+      Strengthening my foundations in algorithms, C++, object-oriented programming, and problem-solving.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌁ Web Development</h3>
+      Growing from HTML, CSS, and JavaScript fundamentals toward modern frontend frameworks.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✳ Design</h3>
+      Creating clear interfaces, user-centered experiences, and distinctive visual identities.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌬ Artificial Intelligence</h3>
+      Exploring AI concepts and practical applications, including ideas in healthcare.
+    </td>
+  </tr>
+</table>
+
+---
+
+## `03` / SKILL MATRIX
 
 <div align="center">
 
-[![Explore repositories](https://img.shields.io/badge/ACCESS-ALL_REPOSITORIES-0753B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boukhariyasser?tab=repositories)
+| **CORE TOOLKIT** | **CURRENTLY LEARNING** | **EXPLORING NEXT** |
+|:---:|:---:|:---:|
+| **Web & Design**<br/><img src="https://skillicons.dev/icons?i=html,css,figma,ps,ai&theme=dark" alt="HTML CSS Figma Photoshop Illustrator"/><br/>HTML · CSS · Visual Design | **Programming**<br/><img src="https://skillicons.dev/icons?i=js,cpp,python&theme=dark" alt="JavaScript C++ Python"/><br/>JavaScript basics · C++ / OOP · Python | **Modern Stack**<br/><img src="https://skillicons.dev/icons?i=react,ts,nodejs&theme=dark" alt="React TypeScript Node.js"/><br/>Frameworks · APIs · AI projects |
+| **Workflow**<br/><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git GitHub VS Code Linux"/><br/>Version control · Dev tools | **Computer Science**<br/>Algorithms · Data structures<br/>Problem solving | **Long-term interests**<br/>AI · HealthTech<br/>Human-centered technology |
 
 </div>
 
-When I publish more projects, this section will feature selected work with a short description, screenshots, and the technologies used.
+<sub>These categories show my current toolkit and learning direction, not a claim of professional mastery in every technology.</sub>
 
-## `06 / CONNECT`
+## `04` / GITHUB TELEMETRY
+
+<div align="center">
+
+<a href="https://github.com/boukhariyasser">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=boukhariyasser&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=00CFFF&text_color=DCEBFF&rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/boukhariyasser">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boukhariyasser&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=DCEBFF" alt="Top languages" />
+</a>
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=boukhariyasser&hide_border=true&background=0D1117&ring=00CFFF&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=93C5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=boukhariyasser&bg_color=0D1117&color=93C5FD&line=00CFFF&point=FFFFFF&area=true&hide_border=true&custom_title=SPIDER%20CODE%20%2F%20CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity graph" />
+
+</div>
+
+## `05` / PROJECT ARCHIVE
+
+**Ideas are interesting. Building them is better.**
+
+I use projects to practise, experiment with technology, and turn concepts into working digital experiences. As my portfolio grows, this is where I'll showcase selected work with descriptions, screenshots, and the tools behind each project.
+
+<div align="center">
+
+<a href="https://github.com/boukhariyasser?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-0753B8?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+</a>
+
+</div>
+
+## `06` / CONNECT
 
 <div align="center">
 
 **Have an idea, want to collaborate, or simply talk tech? Let's connect.**
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-BOUKHARI_ABDALLAH_YASSER-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boukhari-abdallah-yasser-b3240b379/)
-[![Email](https://img.shields.io/badge/EMAIL-ENSIA-00A6FB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallah-yasser.boukhari@ensia.edu.dz)
+<a href="https://www.linkedin.com/in/boukhari-abdallah-yasser-b3240b379/">
+  <img src="https://img.shields.io/badge/LINKEDIN-BOUKHARI_ABDALLAH_YASSER-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="mailto:abdallah-yasser.boukhari@ensia.edu.dz">
+  <img src="https://img.shields.io/badge/EMAIL-ENSIA-00A6FB?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=540&lines=THINK+BEYOND+THE+ORDINARY.;DESIGN+WITH+INTENTION.;BUILD+WHAT+MATTERS." alt="Spider Code motto" />
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=540&lines=THINK+BEYOND+THE+ORDINARY.;DESIGN+WITH+INTENTION.;BUILD+WHAT+MATTERS." alt="Animated Spider Code motto" />
+
+<br/>
 
 **SPIDER CODE** · ENSIA · ALGERIA
 
-</div>
+<sub>Midnight navy · Electric blue · Neon cyan</sub>
 
-<!-- Theme palette: midnight navy #050B16 · electric blue #0753B8 · neon cyan #00CFFF -->
+</div>
