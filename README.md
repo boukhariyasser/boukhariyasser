@@ -1,19 +1,148 @@
-<h1 align="center">Hi 👋, I'm Boukhari Abdallah Yasser</h1>
-<h3 align="center">A passionate web developer</h3>
+ <!-- ═══════════════════ HERO SECTION ═══════════════════ -->
 
-- 🌱 I’m currently learning **frameworks**
+<div align="center">
 
-- 💬 Ask me about **HTML/CSS, JavaScript basics, UI/UX Design**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Abdallah%20Yasser&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Student%20%7C%20Developer%20%7C%20Designer&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Abdallah Yasser — AI Student, Developer and Designer"/>
 
-- 📫 How to reach me **abdallah-yasser.boukhari@ensia.edu.dz**
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=First-year+AI+student+at+ENSIA+%F0%9F%8E%93;Turning+ideas+into+digital+experiences+%F0%9F%92%BB;Designing+interfaces+with+purpose+%F0%9F%8E%A8;Exploring+the+future+of+Artificial+Intelligence+%F0%9F%A4%96" alt="Typing animation"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<a href="https://github.com/boukhariyasser">
+<img src="https://img.shields.io/badge/GitHub-boukhariyasser-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:abdallah-yasser.boukhari@ensia.edu.dz">
+<img src="https://img.shields.io/badge/ENSIA_Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/boukhari-abdallah-yasser-b3240b379/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boukhariyasser&show_icons=true&locale=en&layout=compact" alt="boukhariyasser" /></p>
+<img src="https://komarev.com/ghpvc/?username=boukhariyasser&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boukhariyasser&show_icons=true&locale=en" alt="boukhariyasser" /></p>
+</div>
+
+---
+
+## `01` — About Me
+
+```yaml
+name: Boukhari Abdallah Yasser
+education: National School of Artificial Intelligence (ENSIA)
+role:
+  - Artificial Intelligence Student
+  - Web Developer
+  - UI/UX & Graphic Designer
+interests:
+  - Artificial Intelligence
+  - Software Engineering
+  - Human-Centered Design
+  - HealthTech Innovation
+currently_learning:
+  - JavaScript
+  - Web Development Frameworks
+  - Algorithms & Object-Oriented Programming
+```
+
+I'm an AI student at **ENSIA**, passionate about the intersection of technology, creativity, and problem-solving.
+
+I enjoy building digital experiences, designing intuitive interfaces, and exploring how intelligent systems can solve real-world problems.
+
+- 🎓 Studying Artificial Intelligence at ENSIA, Algeria.
+- 💻 Learning and building with web technologies and C++.
+- 🎨 Combining design thinking with software development.
+- 🧠 Exploring AI research and innovative healthcare applications.
+- 🌱 Always learning, experimenting, and improving.
+
+> *My goal is to build technology that is not only functional, but meaningful.*
+
+## `02` — Tech Stack & Tools
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js&theme=dark" alt="Python, C++, HTML, CSS and JavaScript"/>
+
+### Development & Databases
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,react,nodejs,mongodb,mysql&theme=dark" alt="Development tools and technologies"/>
+
+### Design & Creativity
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender&theme=dark" alt="Figma, Photoshop, Illustrator and Blender"/>
+
+</div>
+
+## `03` — GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/boukhariyasser">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=boukhariyasser&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/boukhariyasser">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boukhariyasser&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used programming languages"/>
+</a>
+
+<br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=boukhariyasser&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+
+</div>
+
+## `04` — Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/boukhariyasser?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My_Repositories-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore repositories"/>
+</a>
+
+</div>
+
+I use my projects to explore new technologies, sharpen my engineering skills, and turn ideas into working products.
+
+- 🌐 **Web Development** — Responsive interfaces and interactive applications.
+- 🎨 **UI/UX Design** — Clean, intuitive, user-centered digital experiences.
+- 🤖 **Artificial Intelligence** — Exploring intelligent solutions to practical problems.
+
+*Project showcases will grow as I publish more work on GitHub.*
+
+## `05` — Beyond the Code
+
+<div align="center">
+
+| 🎯 Focus | 🚀 Direction |
+|:--|:--|
+| Artificial Intelligence | Explore AI research |
+| Software Development | Build useful applications |
+| UI/UX & Graphic Design | Create better digital experiences |
+| HealthTech | Explore AI-powered healthcare |
+
+</div>
+
+## `06` — Let's Connect
+
+<div align="center">
+
+I'm always happy to connect with developers, designers, students, and people building interesting things.
+
+<a href="mailto:abdallah-yasser.boukhari@ensia.edu.dz">
+<img src="https://img.shields.io/badge/Let's_Talk-Email_Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/boukhari-abdallah-yasser-b3240b379/">
+<img src="https://img.shields.io/badge/Connect_on-LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+</a>
+
+<br/><br/>
+
+**"Think deeply. Design thoughtfully. Build boldly."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Decorative blue footer"/>
+
+</div>
