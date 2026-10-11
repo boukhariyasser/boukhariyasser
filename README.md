@@ -29,7 +29,7 @@
 
 ---
 
-## `01` / THE PERSON BEHIND THE CODE
+## `01` / 🕷️ THE PERSON BEHIND THE CODE
 
 > **Curiosity is the engine. Code is the medium. Design is the experience.**
 
@@ -42,7 +42,7 @@ Hey, I'm **Boukhari Abdallah Yasser** — a **second-year Artificial Intelligenc
   <tr><td><b>APPROACH</b></td><td>Build · Learn · Iterate</td></tr>
 </table>
 
-## `02` / CURRENT MISSION
+## `02` / 🎯 CURRENT MISSION
 
 <table>
   <tr>
@@ -69,20 +69,20 @@ Hey, I'm **Boukhari Abdallah Yasser** — a **second-year Artificial Intelligenc
 
 ---
 
-## `03` / SKILL MATRIX
+## `03` / 🧩 SKILL MATRIX
 
 <div align="center">
 
-| **CORE TOOLKIT** | **CURRENTLY LEARNING** | **EXPLORING NEXT** |
+| **🧰 CORE TOOLKIT** | **📚 CURRENTLY LEARNING** | **🚀 EXPLORING NEXT** |
 |:---:|:---:|:---:|
-| **Web & Design**<br/><img src="https://skillicons.dev/icons?i=html,css,figma,ps,ai&theme=dark" alt="HTML CSS Figma Photoshop Illustrator"/><br/>HTML · CSS · Visual Design | **Programming**<br/><img src="https://skillicons.dev/icons?i=js,cpp,python&theme=dark" alt="JavaScript C++ Python"/><br/>JavaScript basics · C++ / OOP · Python | **Modern Stack**<br/><img src="https://skillicons.dev/icons?i=react,ts,nodejs&theme=dark" alt="React TypeScript Node.js"/><br/>Frameworks · APIs · AI projects |
-| **Workflow**<br/><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git GitHub VS Code Linux"/><br/>Version control · Dev tools | **Computer Science**<br/>Algorithms · Data structures<br/>Problem solving | **Long-term interests**<br/>AI · HealthTech<br/>Human-centered technology |
+| **🎨 Web & Design**<br/><img src="https://skillicons.dev/icons?i=html,css,figma,ps,ai&theme=dark" alt="HTML CSS Figma Photoshop Illustrator"/><br/>HTML · CSS · Visual Design | **💻 Programming**<br/><img src="https://skillicons.dev/icons?i=js,cpp,python&theme=dark" alt="JavaScript C++ Python"/><br/>JavaScript basics · C++ / OOP · Python | **⚡ Modern Stack**<br/><img src="https://skillicons.dev/icons?i=react,ts,nodejs&theme=dark" alt="React TypeScript Node.js"/><br/>Frameworks · APIs · AI projects |
+| **🛠️ Workflow**<br/><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git GitHub VS Code Linux"/><br/>Version control · Dev tools | **🧠 Computer Science**<br/>🧩 Algorithms · 🗂️ Data structures<br/>🎯 Problem solving | **🔭 Long-term interests**<br/>🤖 AI · 🩺 HealthTech<br/>💙 Human-centered technology |
 
 </div>
 
 <sub>These categories show my current toolkit and learning direction, not a claim of professional mastery in every technology.</sub>
 
-## `04` / GITHUB TELEMETRY
+## `04` / 📡 GITHUB TELEMETRY
 
 <div align="center">
 
@@ -103,11 +103,28 @@ Hey, I'm **Boukhari Abdallah Yasser** — a **second-year Artificial Intelligenc
 
 </div>
 
-## `05` / PROJECT ARCHIVE
+## `05` / 🚀 PROJECT ARCHIVE
 
 **Ideas are interesting. Building them is better.**
 
-I use projects to practise, experiment with technology, and turn concepts into working digital experiences. As my portfolio grows, this is where I'll showcase selected work with descriptions, screenshots, and the tools behind each project.
+A selection of projects where I explore digital experiences, interface design, and practical product concepts. Open each project to explore the work.
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="600">
+      <h3>🩺 Care Connect</h3>
+      <p><b>Interactive prototype</b></p>
+      <p>A care-focused digital experience concept, presented as an interactive prototype.</p>
+      <a href="https://center-marsh-36598430.figma.site/">
+        <img src="https://img.shields.io/badge/EXPLORE-PROTOTYPE-0753B8?style=for-the-badge&logo=figma&logoColor=white" alt="Explore Care Connect prototype" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <div align="center">
 
@@ -117,7 +134,7 @@ I use projects to practise, experiment with technology, and turn concepts into w
 
 </div>
 
-## `06` / CONNECT
+## `06` / 🤝 CONNECT
 
 <div align="center">
 
